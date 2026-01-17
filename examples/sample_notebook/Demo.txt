@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2024-12-02T11:00:00+00:00
+
+====== Demo ======
+
+This page exercises common conversions:
+
+* Bullet one
+* Bullet two with //italic// and __underline__ and ''verbatim''
+
+[ ] open task
+[*] completed task
+[x] explicitly not completed task
+[>] moved task
+[<] moved back task
+
+Image embed:
+{{./image.png?width=320}}
+
+Subpage link:
+[[+Subpage|Open subpage]]
+
+A code block:
+'''
+print("hello")
+'''
+
