@@ -12,6 +12,10 @@ Convert **Zim** notebook **source files** (`.txt` with Zim headers) into **Obsid
 - Optional YAML front matter (default) or plain Markdown (`--no-frontmatter`)
 - Best-effort conversion for common Zim wiki markup (headings, lists, checkboxes, links, images)
 
+## Case study (DE)
+
+If you want the full project context (why this exists, workflow, results), [here's the write-up](https://andreploeger.com/cases/wissensinseln-konsolidiert-obsidian-git-sync?utm_source=github.com&utm_medium=readme).
+
 ## Requirements
 
 - Python 3.9+
